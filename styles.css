@@ -1,0 +1,26 @@
+html {
+	background-color: #363634;
+}
+
+#namePicture{
+	width: 80%;
+	display: block;
+	margin: auto;
+}
+
+.image123{
+	width: 80%;
+	display: block;
+	margin: 0 auto;
+	background-color: #FFF;
+	text-align: center;
+}
+.imgContainer{
+	float:left;
+	margin: auto;
+	width: 33%;
+}
+
+.imgContainer img{
+	width: 100%;
+}
